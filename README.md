@@ -1,4 +1,4 @@
-# Fila Dry Box
+# Fila Dry Box 
 ### Apresentação:
 O projeto proposto a seguir consiste em uma Estufa de Secagem de Filamentos para Impressão 3D, com objetivo de resolver um problema comum enfrentado por muitas pessoas que utilizam impressoras 3D: o impacto da umidade nos filamentos de impressão. Filamentos como o PLA e o ABS, quando expostos à umidade, podem ter suas propriedades prejudicadas devido a sua alta capacidade de absorção de água, resultando em falhas nas impressões e diminuição da qualidade dos objetos produzidos. Visando acabar com esse problema foi criada uma estufa automatizada capaz de controlar de forma precisa a temperatura e a umidade, proporcionando condições ideais para a secagem desses filamentos.
 O sistema é composto de sensores de temperatura e umidade de alta precisão e uma interface de controle intuitiva para monitoramento e ajustes em tempo real, baseada no kit de desenvolvimento BitDog Lab. Essa estufa garante que os filamentos sejam mantidos em um ambiente livre de umidade excessiva, prolongando sua vida útil e melhorando a qualidade das peças impressas em 3D.
